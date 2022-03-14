@@ -2,4 +2,4 @@ package com.example.demo
 
 import org.springframework.data.jpa.repository.JpaRepository
 
-interface UsuariosRepository : JpaRepository<Usuario, Int>
+interface PeopleRepository : JpaRepository<People, Int>
